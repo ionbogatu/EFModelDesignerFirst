@@ -1,0 +1,12 @@
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\bin\Debug\Design_First.exe.config
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\bin\Debug\Design_First.exe
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\bin\Debug\Design_First.pdb
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\bin\Debug\EntityFramework.dll
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\bin\Debug\EntityFramework.xml
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\obj\Debug\EFModelDesignerFirst.csprojAssemblyReference.cache
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\obj\Debug\EFModelDesignerFirst.csproj.CoreCompileInputs.cache
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\obj\Debug\EFModelDesignerFirst.csproj.CopyComplete
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\obj\Debug\Design_First.exe
+D:\dotnet\EFModelDesignerFirst\EFModelDesignerFirst\obj\Debug\Design_First.pdb
